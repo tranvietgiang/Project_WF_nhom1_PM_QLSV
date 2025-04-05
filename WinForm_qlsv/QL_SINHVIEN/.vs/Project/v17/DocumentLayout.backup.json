@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\login_tdc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|solutionrelative:login_tdc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|d:\\g i a n g\\lt_ung_dung_sang5\\project_ltud_qlsv_version_hoanthanh\\winform_qlsv\\ql_sinhvien\\dt_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|solutionrelative:dt_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\dt_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|solutionrelative:dt_thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\dt_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|solutionrelative:dt_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\dt_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|solutionrelative:dt_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\dt_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|solutionrelative:dt_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\dt_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|solutionrelative:dt_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\login_tdc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|solutionrelative:login_tdc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\menu_gv_systemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADFA0DCD-7B99-41FB-AEC4-559A6A6DB212}|Project_qlsv.csproj|solutionrelative:menu_gv_systemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:14:05.838Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MENU_GV_SystemMenu.cs [Design]",
+              "DocumentMoniker": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\MENU_GV_SystemMenu.cs",
+              "RelativeDocumentMoniker": "MENU_GV_SystemMenu.cs",
+              "ToolTip": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\MENU_GV_SystemMenu.cs [Design]",
+              "RelativeToolTip": "MENU_GV_SystemMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:14:46.478Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login_TDC.cs [Design]",
+              "DocumentMoniker": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\Login_TDC.cs",
+              "RelativeDocumentMoniker": "Login_TDC.cs",
+              "ToolTip": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\Login_TDC.cs [Design]",
+              "RelativeToolTip": "Login_TDC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:59:54.564Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DT_SinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\DT_SinhVien.cs",
+              "RelativeDocumentMoniker": "DT_SinhVien.cs",
+              "ToolTip": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\DT_SinhVien.cs [Design]",
+              "RelativeToolTip": "DT_SinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:05:30.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DT_MENU.cs [Design]",
+              "DocumentMoniker": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\DT_MENU.cs",
+              "RelativeDocumentMoniker": "DT_MENU.cs",
+              "ToolTip": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\DT_MENU.cs [Design]",
+              "RelativeToolTip": "DT_MENU.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:05:28.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DT_THONGKE.cs",
+              "DocumentMoniker": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\DT_THONGKE.cs",
+              "RelativeDocumentMoniker": "DT_THONGKE.cs",
+              "ToolTip": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\DT_THONGKE.cs",
+              "RelativeToolTip": "DT_THONGKE.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA3wBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:05:17.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DT_THONGKE.cs [Design]",
+              "DocumentMoniker": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\DT_THONGKE.cs",
+              "RelativeDocumentMoniker": "DT_THONGKE.cs",
+              "ToolTip": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\DT_THONGKE.cs [Design]",
+              "RelativeToolTip": "DT_THONGKE.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:05:16.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DT_MENU.cs",
+              "DocumentMoniker": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\DT_MENU.cs",
+              "RelativeDocumentMoniker": "DT_MENU.cs",
+              "ToolTip": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\DT_MENU.cs",
+              "RelativeToolTip": "DT_MENU.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:00:54.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login_TDC.cs",
+              "DocumentMoniker": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\Login_TDC.cs",
+              "RelativeDocumentMoniker": "Login_TDC.cs",
+              "ToolTip": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\Login_TDC.cs",
+              "RelativeToolTip": "Login_TDC.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwDsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:59:57.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DT_SinhVien.cs",
+              "DocumentMoniker": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\DT_SinhVien.cs",
+              "RelativeDocumentMoniker": "DT_SinhVien.cs",
+              "ToolTip": "D:\\G I A N G\\LT_Ung_Dung_Sang5\\Project_LTUD_QLSV_version_hoanThanh\\WinForm_qlsv\\QL_SINHVIEN\\DT_SinhVien.cs",
+              "RelativeToolTip": "DT_SinhVien.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:04:14.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

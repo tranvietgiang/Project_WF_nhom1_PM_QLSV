@@ -1,0 +1,646 @@
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\bin\Debug\Login.exe.config
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\bin\Debug\Login.exe
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\bin\Debug\Login.pdb
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\obj\Debug\Project_qlsv.csproj.AssemblyReference.cache
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\obj\Debug\Login.Properties.Resources.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\obj\Debug\Project_qlsv.csproj.GenerateResource.cache
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\obj\Debug\Project_qlsv.csproj.CoreCompileInputs.cache
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\obj\Debug\Login.exe
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\obj\Debug\Login.pdb
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\obj\Debug\Login.Forgot_Password.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\obj\Debug\Login.QLSV_Teacher.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\obj\Debug\Login.Main.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\obj\Debug\Login.QLSV_Student.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\obj\Debug\Login.Đang_ky_hoc_phan.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\obj\Debug\Login.Login_TDC.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\Login\obj\Debug\DOAN1_LTUD.QUENMATKHAU.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe.config
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.pdb
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.AssemblyReference.cache
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Forgot_Password.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Login_TDC.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Main.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Properties.Resources.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLSV_Student.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLSV_Teacher.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\DOAN1_LTUD.QUENMATKHAU.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.GenerateResource.cache
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.CoreCompileInputs.cache
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.exe
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.pdb
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Dang_ky_hoc_phan.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Xem_TKB.resources
+D:\G I A N G\Project_LT_UD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\DOAN1_LTUD.DIEM_GV.resources
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe.config
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.pdb
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.AssemblyReference.cache
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\DOAN1_LTUD.DIEM_GV.resources
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Forgot_Password.resources
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Login_TDC.resources
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Main.resources
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Properties.Resources.resources
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLSV_Student.resources
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLSV_Teacher.resources
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\DOAN1_LTUD.QUENMATKHAU.resources
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Dang_ky_hoc_phan.resources
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Xem_TKB.resources
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.GenerateResource.cache
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.CoreCompileInputs.cache
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.exe
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.pdb
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_Diem.resources
+D:\G I A N G\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_vi_pham.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe.config
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.pdb
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.AssemblyReference.cache
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.SuggestedBindingRedirects.cache
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Login_TDC.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Properties.Resources.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLSV_Teacher.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\DOAN1_LTUD.QUENMATKHAU.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_Diem.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.GenerateResource.cache
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.CoreCompileInputs.cache
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.exe
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.pdb
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_MonHoc.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe.config
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.pdb
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.AssemblyReference.cache
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_MonHoc.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Login_TDC.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Properties.Resources.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLSV_Teacher.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\DOAN1_LTUD.QUENMATKHAU.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_Diem.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.GenerateResource.cache
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.CoreCompileInputs.cache
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.exe
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.pdb
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_SinhVien.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\DOAN1_LTUD.GV_DIEM.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_CLASS.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_VIPHAM.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLDD.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_SinhVien.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_HocPhi.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_HP_CD23.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Forgot_Password_du.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SVMain_Student.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLSV_vi_pham.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_XemTKB.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_Khoa.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.Shared.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\log4net.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\log4net.xml
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_.ADCC145E.Up2Date
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\EnvDTE.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\stdole.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\EnvDTE.xml
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_Dang_ky_hoc_phan.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_NGANH.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_ThongKe1.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_THONGKE.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_TheClass.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.Shared.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\log4net.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\EnvDTE.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\stdole.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\log4net.xml
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_HocPhi.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_HP_CD23.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_KHOA.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_NGANH.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_TheClass.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_THONGKE.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_CLASS.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\DOAN1_LTUD.GV_DIEM.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Forgot_Password_du.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_SinhVien.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_SinhVien.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_ThongKe1.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_VIPHAM.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLDD.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLSV_vi_pham.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SVMain_Student.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_Dang_ky_hoc_phan.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_XemTKB.resources
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.CopyComplete
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Project_LTUD_QLSV\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.RPT_BaoCao_SVVP.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe.config
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.pdb
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.Shared.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\log4net.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\EnvDTE.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\stdole.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\log4net.xml
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\EnvDTE.xml
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.AssemblyReference.cache
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_HocPhi.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_HP_CD23.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_KHOA.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_NGANH.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_TheClass.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_THONGKE.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_CLASS.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\DOAN1_LTUD.GV_DIEM.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Forgot_Password_du.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_MonHoc.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_SinhVien.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_SinhVien.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_ThongKe1.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_VIPHAM.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Login_TDC.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Properties.Resources.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLDD.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLSV_vi_pham.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.RPT_BaoCao_SVVP.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SVMain_Student.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLSV_Teacher.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\DOAN1_LTUD.QUENMATKHAU.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_Dang_ky_hoc_phan.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_Diem.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_XemTKB.resources
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.GenerateResource.cache
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.CoreCompileInputs.cache
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_.ADCC145E.Up2Date
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.exe
+D:\Project_LTUD_QLSV_version_2.0\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.pdb
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe.config
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.pdb
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.Shared.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\log4net.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\EnvDTE.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\stdole.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\log4net.xml
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\EnvDTE.xml
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.AssemblyReference.cache
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_HocPhi.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_HP_CD23.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_KHOA.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_NGANH.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_TheClass.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_THONGKE.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_CLASS.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\DOAN1_LTUD.GV_DIEM.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Forgot_Password_du.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_SinhVien.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_SinhVien.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_VIPHAM.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Login_TDC.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Properties.Resources.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLDD.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_vi_pham.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.RPT_BaoCao_SVVP.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SVMain_Student.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.QLSV_Teacher.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\DOAN1_LTUD.QUENMATKHAU.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_Dang_ky_hoc_phan.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_Diem.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_XemTKB.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.GenerateResource.cache
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.CoreCompileInputs.cache
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_.ADCC145E.Up2Date
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.exe
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.pdb
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_MonHoc.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_thongtinsinhvien.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_2.1\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_ThongKe.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe.config
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.exe
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Login.pdb
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.Shared.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\log4net.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\EnvDTE.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\stdole.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\log4net.xml
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.AssemblyReference.cache
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_HocPhi.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_KHOA.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_NGANH.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_CLASS.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\DOAN1_LTUD.GV_DIEM.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_MonHoc.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_SinhVien.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_SinhVien.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_ThongKe.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.GV_VIPHAM.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Login_TDC.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.Properties.Resources.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_thongtinsinhvien.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_vi_pham.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.RPT_BaoCao_SVVP.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SVMain_Student.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_Dang_ky_hoc_phan.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_Diem.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.SV_XemTKB.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.GenerateResource.cache
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_qlsv.csproj.CoreCompileInputs.cache
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Project_.ADCC145E.Up2Date
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.exe
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.pdb
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.MENU_GV_SystemMenu.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.RPT_BC_GV_VIPHAM.resources
+D:\G I A N G\LT_Ung_Dung_Sang5\Project_LTUD_QLSV_version_hoanThanh\WinForm_qlsv\QL_SINHVIEN\obj\Debug\Login.DT_MENU.resources

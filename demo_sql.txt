@@ -1,0 +1,58 @@
+---- Tạo bảng giảng viên (student Login)
+--CREATE TABLE TB_LOGIN(USERNAME NVARCHAR(50) NOT NULL,
+--					 PASSWORDS NVARCHAR(50) NOT NULL,
+--					 EMAIL NVARCHAR(150),
+--					 PHONE INT)
+--GO
+----DROP TABLE TB_LOGIN
+--ALTER TABLE TB_LOGIN
+--ADD CONSTRAINT PK_LG PRIMARY KEY(USERNAME)
+--GO
+
+-- Register
+--INSERT INTO TB_LOGIN(USERNAME,PASSWORDS,EMAIL)
+--VALUES(N'account',N'200225Tvg@',N'tranvietgiang25@gmail.com')
+GO
+-- Login
+--SELECT USERNAME
+--FROM TB_LOGIN
+--WHERE USERNAME = N'account' AND PASSWORDS = N'200225Tvg@'
+
+-- Change password
+GO
+--UPDATE TB_LOGIN
+--SET PASSWORDS = '12345@A'
+--WHERE PASSWORDS = '1234567' AND EMAIL = N'tranvietgiang25@gmail.com'
+--SELECT * FROM TB_LOGIN
+
+------------------------------------------------------------------------------------------------
+-- Tạo bảng giảng viên (Teacher Login)
+--CREATE TABLE TB_LOGIN_TEACHER(
+--    USERNAME NVARCHAR(50) NOT NULL,
+--    PASSWORDS NVARCHAR(50) NOT NULL,
+--    EMAIL NVARCHAR(150),
+--    PHONE INT
+--)
+--GO
+---- Thêm khóa chính cho bảng TB_LOGIN_TEACHER
+--ALTER TABLE TB_LOGIN_TEACHER
+--ADD CONSTRAINT PK_LG_TR PRIMARY KEY(USERNAME)
+--GO
+-- Đăng ký tài khoản giảng viên
+--INSERT INTO TB_LOGIN_TEACHER(USERNAME, PASSWORDS, EMAIL)
+--VALUES (N'teacher_account', N'password@123', N'teacher_email@example.com')
+GO
+
+-- Đăng nhập tài khoản giảng viên
+--SELECT USERNAME
+--FROM TB_LOGIN_TEACHER
+--WHERE USERNAME = N'teacher_account' AND PASSWORDS = N'password@123'
+
+-- Đổi mật khẩu giảng viên
+--UPDATE TB_LOGIN_TEACHER
+--SET PASSWORDS = 'newpassword@123'
+--WHERE USERNAME = N'teacher_account' AND EMAIL = N'teacher_email@example.com'
+GO
+
+---- Kiểm tra kết quả
+--SELECT * FROM TB_LOGIN_TEACHER
